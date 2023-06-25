@@ -1,1 +1,1 @@
-# 3dSphere_Three.js
+Project: 3D Sphere using Three.js
